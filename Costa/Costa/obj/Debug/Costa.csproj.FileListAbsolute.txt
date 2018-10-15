@@ -1,0 +1,16 @@
+D:\MY_DATA\VS Projects\Costa\Costa\bin\Debug\Costa.exe.config
+D:\MY_DATA\VS Projects\Costa\Costa\bin\Debug\Costa.exe
+D:\MY_DATA\VS Projects\Costa\Costa\bin\Debug\Costa.pdb
+D:\MY_DATA\VS Projects\Costa\Costa\bin\Debug\EntityFramework.dll
+D:\MY_DATA\VS Projects\Costa\Costa\bin\Debug\EntityFramework.SqlServer.dll
+D:\MY_DATA\VS Projects\Costa\Costa\bin\Debug\EntityFramework.xml
+D:\MY_DATA\VS Projects\Costa\Costa\bin\Debug\EntityFramework.SqlServer.xml
+D:\MY_DATA\VS Projects\Costa\Costa\bin\Debug\ru\EntityFramework.resources.dll
+D:\MY_DATA\VS Projects\Costa\Costa\obj\Debug\Costa.csprojAssemblyReference.cache
+D:\MY_DATA\VS Projects\Costa\Costa\obj\Debug\Costa.Form1.resources
+D:\MY_DATA\VS Projects\Costa\Costa\obj\Debug\Costa.Properties.Resources.resources
+D:\MY_DATA\VS Projects\Costa\Costa\obj\Debug\Costa.csproj.GenerateResource.cache
+D:\MY_DATA\VS Projects\Costa\Costa\obj\Debug\Costa.csproj.CoreCompileInputs.cache
+D:\MY_DATA\VS Projects\Costa\Costa\obj\Debug\Costa.csproj.CopyComplete
+D:\MY_DATA\VS Projects\Costa\Costa\obj\Debug\Costa.exe
+D:\MY_DATA\VS Projects\Costa\Costa\obj\Debug\Costa.pdb
